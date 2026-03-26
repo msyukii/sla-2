@@ -1,5 +1,5 @@
 # Atividade Colaboração
 ## Colaboradores
-- [Nome da Pessoa A] — Admin
-- [Nome da Pessoa B] — Developer
-- [Nome da Pessoa C] — Reviewer
+- [Eüller Mariano dos Santos] — Admin
+- [Amanda Vitória Prates de Jesus] — Developer
+- [Antônio Raphael Lourenço Nascimento dos Santos Machado] — Reviewer
